@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoddiForms.Android", "PoddiForms\PoddiForms.Android\PoddiForms.Android.csproj", "{FD89C339-EE05-4302-A26C-60A693461D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoddiForms", "PoddiForms\PoddiForms\PoddiForms.csproj", "{373F12A5-68E0-49EA-AC1E-E1738F971692}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cave.Poddi", "PoddiForms\Cave.Poddi\Cave.Poddi.csproj", "{DECB788C-EB23-456C-AD32-3B66DBFAEBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD89C339-EE05-4302-A26C-60A693461D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD89C339-EE05-4302-A26C-60A693461D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD89C339-EE05-4302-A26C-60A693461D47}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD89C339-EE05-4302-A26C-60A693461D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD89C339-EE05-4302-A26C-60A693461D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD89C339-EE05-4302-A26C-60A693461D47}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{373F12A5-68E0-49EA-AC1E-E1738F971692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373F12A5-68E0-49EA-AC1E-E1738F971692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373F12A5-68E0-49EA-AC1E-E1738F971692}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{373F12A5-68E0-49EA-AC1E-E1738F971692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373F12A5-68E0-49EA-AC1E-E1738F971692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373F12A5-68E0-49EA-AC1E-E1738F971692}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DECB788C-EB23-456C-AD32-3B66DBFAEBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECB788C-EB23-456C-AD32-3B66DBFAEBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECB788C-EB23-456C-AD32-3B66DBFAEBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECB788C-EB23-456C-AD32-3B66DBFAEBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219782F1-32BE-46B1-AEED-04AEDE8BB9F5}
+	EndGlobalSection
+EndGlobal
